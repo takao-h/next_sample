@@ -1,2 +1,3 @@
 # next_sample
-midlewearを触ってみる。
+midlewearを触ってみる。 </br>
+https://nextjs.org/docs/middleware
