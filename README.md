@@ -1,2 +1,2 @@
 # next_sample
-midlewearを触ってみる。
+midlewareを触ってみる。
